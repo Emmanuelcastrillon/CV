@@ -380,6 +380,10 @@ button:focus-visible {
 @media(max-width:800px){
 
   /*************Style Navbar**************/
+
+  .header{
+    height: 30vh;/*cambios*/
+  }
   .navigation{
     flex-direction: column;
     width: 30%;
@@ -395,7 +399,7 @@ button:focus-visible {
   } */
 
   .links{
-    font-size: 2.5vw; /*cambios*/
+    font-size: 3vw; /*cambios*/
   }
   .form-check{
     margin: 1.5vh 20vw 0vh 0vw;  
@@ -433,7 +437,7 @@ button:focus-visible {
   }
   .containerContact{
     width: 90%;
-    height: 35vh; /*cambios*/
+    height: 38vh; /*cambios*/
     margin: 2vh 0vw 2vh 0vw;
   }
   .phone,.email,.location{
