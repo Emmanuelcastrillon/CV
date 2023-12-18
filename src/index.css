@@ -551,6 +551,7 @@ button:focus-visible {
  
    .containerContact{
     width: 90%;
+     height: 30vh;
     margin: 2vh 0vw 2vh 0vw;
   }
   .phone,.email,.location{
