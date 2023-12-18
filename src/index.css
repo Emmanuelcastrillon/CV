@@ -405,8 +405,8 @@ button:focus-visible {
     margin: 1.5vh 20vw 0vh 0vw;  
   }
   .form-switch .form-check-input{
-    width: 6vw;
-    height: 3.5vh;
+    width: 7vw;
+    height: 4.5vh; /*cambios*/
     background-color:white; 
   }
 
@@ -505,7 +505,7 @@ button:focus-visible {
     margin: 0vh 19vw 0vh 0vw;
   }
   .form-switch .form-check-input{
-    width: 10vw;
+    width: 7vw;
     height: 2.5vh;
     background-color:white;
   }
