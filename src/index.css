@@ -399,7 +399,7 @@ button:focus-visible {
   } */
 
   .links{
-    font-size: 3vw; /*cambios*/
+    font-size: 2vw; /*cambios*/
   }
   .form-check{
     margin: 1.5vh 20vw 0vh 0vw;  
@@ -437,7 +437,7 @@ button:focus-visible {
   }
   .containerContact{
     width: 90%;
-    height: 38vh; /*cambios*/
+    height: 40vh; /*cambios*/
     margin: 2vh 0vw 2vh 0vw;
   }
   .phone,.email,.location{
