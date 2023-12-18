@@ -145,10 +145,10 @@ button:focus-visible {
 
 .form-switch .form-check-input{
   margin: 0vh 0vw 0vh 0vw;
-  background-color: rgba(32, 10, 231, 0.671);
+  background-color: white;
 }
 .form-switch .form-check-input:checked{
-  background-color: gray;
+  background-color:  rgba(32, 10, 231, 0.904);
 }
 .form-check-label{
   color: rgba(32, 10, 231, 0.904);
