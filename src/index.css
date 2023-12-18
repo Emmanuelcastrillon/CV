@@ -394,6 +394,9 @@ button:focus-visible {
     width: 10vw;
   } */
 
+  .links{
+    font-size: 2.5vw; /*cambios*/
+  }
   .form-check{
     margin: 1.5vh 20vw 0vh 0vw;  
   }
@@ -430,6 +433,7 @@ button:focus-visible {
   }
   .containerContact{
     width: 90%;
+    height: 35vh; /*cambios*/
     margin: 2vh 0vw 2vh 0vw;
   }
   .phone,.email,.location{
